@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sbb:home|Door43 (sbb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sbb|d43-sbb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sbb/archive/master.zip|d43-sbb.zip]]
+
+**Recent Changes**
+{{changes>ns = sbb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sbb|Ethnologue data]]
+
